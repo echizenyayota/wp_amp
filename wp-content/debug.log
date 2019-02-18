@@ -1,0 +1,32 @@
+[18-Feb-2019 07:17:41 UTC] PHP Warning:  不明なエラーが発生しました。WordPress.org またはこのサーバーの設定に何か問題が起きている可能性があります。問題が解決しない場合は<a href="https://ja.wordpress.org/support/">サポートフォーラム</a>に投稿してみてください。 (WordPress は WordPress.org との安全な接続を確立できませんでした。サーバー管理者にご連絡ください) in /var/www/wordpress/wp-includes/update.php on line 347
+[18-Feb-2019 07:17:41 UTC] PHP Stack trace:
+[18-Feb-2019 07:17:41 UTC] PHP   1. {main}() /var/www/wordpress/wp-admin/options-permalink.php:0
+[18-Feb-2019 07:17:41 UTC] PHP   2. require_once() /var/www/wordpress/wp-admin/options-permalink.php:10
+[18-Feb-2019 07:17:41 UTC] PHP   3. do_action() /var/www/wordpress/wp-admin/admin.php:156
+[18-Feb-2019 07:17:41 UTC] PHP   4. WP_Hook->do_action() /var/www/wordpress/wp-includes/plugin.php:453
+[18-Feb-2019 07:17:41 UTC] PHP   5. WP_Hook->apply_filters() /var/www/wordpress/wp-includes/class-wp-hook.php:310
+[18-Feb-2019 07:17:41 UTC] PHP   6. _maybe_update_plugins() /var/www/wordpress/wp-includes/class-wp-hook.php:286
+[18-Feb-2019 07:17:41 UTC] PHP   7. wp_update_plugins() /var/www/wordpress/wp-includes/update.php:689
+[18-Feb-2019 07:17:41 UTC] PHP   8. trigger_error() /var/www/wordpress/wp-includes/update.php:347
+[18-Feb-2019 09:09:53 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /var/www/wordpress/wp-content/themes/mysites/index.php:1
+Stack trace:
+#0 /var/www/wordpress/wp-includes/template-loader.php(74): include()
+#1 /var/www/wordpress/wp-blog-header.php(19): require_once('/var/www/wordpr...')
+#2 /var/www/wordpress/index.php(17): require('/var/www/wordpr...')
+#3 {main}
+  thrown in /var/www/wordpress/wp-content/themes/mysites/index.php on line 1
+[18-Feb-2019 09:13:04 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /var/www/wordpress/wp-content/themes/mysites/index.php:1
+Stack trace:
+#0 /var/www/wordpress/wp-includes/template-loader.php(74): include()
+#1 /var/www/wordpress/wp-blog-header.php(19): require_once('/var/www/wordpr...')
+#2 /var/www/wordpress/index.php(17): require('/var/www/wordpr...')
+#3 {main}
+  thrown in /var/www/wordpress/wp-content/themes/mysites/index.php on line 1
+[18-Feb-2019 09:18:56 UTC] PHP Parse error:  syntax error, unexpected '?>', expecting variable (T_VARIABLE) or '{' or '$' in /var/www/wordpress/wp-content/themes/mysites/index.php on line 4
+[18-Feb-2019 09:19:07 UTC] PHP Warning:  Missing argument 1 for AMP_Playlist_Embed_Handler::get_title(), called in /var/www/wordpress/wp-content/themes/mysites/index.php on line 5 and defined in /var/www/wordpress/wp-content/plugins/amp/includes/embeds/class-amp-playlist-embed-handler.php on line 315
+[18-Feb-2019 09:19:07 UTC] PHP Stack trace:
+[18-Feb-2019 09:19:07 UTC] PHP   1. {main}() /var/www/wordpress/index.php:0
+[18-Feb-2019 09:19:07 UTC] PHP   2. require() /var/www/wordpress/index.php:17
+[18-Feb-2019 09:19:07 UTC] PHP   3. require_once() /var/www/wordpress/wp-blog-header.php:19
+[18-Feb-2019 09:19:07 UTC] PHP   4. include() /var/www/wordpress/wp-includes/template-loader.php:74
+[18-Feb-2019 09:19:07 UTC] PHP   5. AMP_Playlist_Embed_Handler->get_title() /var/www/wordpress/wp-content/themes/mysites/index.php:5
