@@ -1,0 +1,582 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<title>記事 | WordPress AMP対応モダンWeb制作 レッスンブック</title>
+<meta name="viewport" content="width=device-width">
+
+<style>
+body	{margin: 0;
+	font-family: 'メイリオ', 'Hiragino Kaku Gothic Pro', sans-serif;
+	line-height: 1.5}
+
+.contents	{max-width: 600px;
+	margin: 30px auto;}
+
+h1 .booktitle	{display: block;
+	margin: 0 0 20px;
+	padding: 3px 10px;
+	background-color: #789abb;
+	color: #ffffff;
+	font-size: 16px;
+	font-weight: normal;}
+
+h1 .pagetitle	{display: block;
+	margin: 0 0 30px;
+	padding: 0 0 15px;
+	border-bottom: solid 5px #789abb;
+	font-size: 36px;}
+
+p	{margin: 30px 0 40px}
+
+h2	{margin: 30px 0 15px;
+	padding: 5px 0 3px 7px;
+	border-left: solid 12px #789abb;
+	font-size: 18px;
+	line-height: 1;}
+
+img	{width: 80px;
+	height: auto;
+	margin-top: 5px;
+	vertical-align: top;}
+
+a	{color: #789abb;}
+
+textarea	{width: 100%;
+	height: 100px;
+	margin: 8px 0 10px;
+	border: solid 1px #ddd;
+	tab-size: 5}
+
+.temp	{background-color: #f3f5f5}
+.css	{background-color: #fef7ef;
+	tab-size: 20}
+.function	{background-color: #f2f1f8}
+
+ul	{margin: 0;
+	padding: 0;
+	list-style: none;
+	font-size: 14px;}
+
+
+.copyright p	{margin: 50px 0 0;
+	padding: 10px 0 0;
+	border-top: solid 2px #cccccc;
+	color: #666666;
+	font-size: 14px}
+</style>
+</head>
+<body>
+
+
+<div class="contents">
+<h1>
+<span class="booktitle">WordPress AMP対応モダンWeb制作 レッスンブック</span>
+<span class="pagetitle">記事</span>
+</h1>
+
+
+<h2>爽やかな飲み物で気分転換</h2>
+
+<ul>
+
+<li>スラッグ： glass</li>
+
+<li>カテゴリー：
+ドリンク,ランチ,外食</li>
+
+<li>タグ： 
+リフレッシュ,レモン</li>
+
+<li>画像：<br>
+<a href="../media/drink.jpg"><img src="../media/drink.jpg" alt=""></a>
+drink.jpg</li>
+
+<li>
+<textarea>
+疲れたときや嫌なことがあったときには、おいしいものをたくさん食べてリフレッシュしたいもの。でも、ゆっくり時間がとれないときにはそれすらも難しい。そんなときには爽やかな飲み物で気分転換するのがおすすめです。
+<h2>ミネラル豊富な炭酸水</h2>
+炭酸水のシュワっと弾ける爽快感は気分転換にぴったりです。天然の炭酸水ならミネラルも豊富でさらに良し。取水地によってミネラル分や硬度にも違いがあり、味も変わってきます。いろいろ飲み比べてお気に入りの炭酸水を探してみるのも一興かもしれません。
+<h2>果物を入れてより爽やかに</h2>
+より爽やかで一味違ったおいしさが恋しいときには、果物を入れてみることをおすすめします。
+<h3>おすすめの果物</h3>
+ちょっとすっぱい、酸味のある果物を選ぶのがポイント。定番なのはレモンやオレンジですが、ブルーベリーやキウイを入れるのも美味しいです。
+<h3>炭酸水を飲みやすくする効果も</h3>
+硬度の高い炭酸水は「カラダにいい」と言われても苦手な人も多いもの。でも、果物を入れると飲みやすくする効果があります。</textarea>
+</li>
+
+
+
+</ul>
+
+
+<h2>パーソナルアシスタントにおまかせ</h2>
+
+<ul>
+
+<li>スラッグ： assistant</li>
+
+<li>カテゴリー：
+アシスタント,人工知能,効率化</li>
+
+<li>タグ： 
+スマホ</li>
+
+<li>画像：<br>
+<a href="../media/tablet.jpg"><img src="../media/tablet.jpg" alt=""></a>
+tablet.jpg<br>
+<a href="../media/album.jpg"><img src="../media/album.jpg" alt=""></a>
+album.jpg
+</li>
+
+<li>
+<textarea>
+どんどん進化していくパーソナルアシスタント。ひと昔前は夢物語だったSFのような世界が現実になろうとしています。
+<h2>面倒な雑務はお手のもの</h2>
+仕事のスケジュールを管理したり、必要な情報を探したり。今までは自分でやるのが当たり前だった手間のかかる作業を、パーソナルアシスタントはどんどん処理してくれます。届いたメールやチャットでの会話からスケジュールを拾い出してカレンダーに追加してくれたり、目的地に合わせてホテルやレストランを探し出してくれたり…。
+<h2>音声アシスタントで日常生活も便利に</h2>
+「○○を教えて」「電気を付けて」「あの映画が見たい」etc... 音声アシスタントを使えば会話形式でいろいろな頼み事をすることもできます。どこの家庭にも優秀なコンシェルジュがいるような感じです。
+
+そんな優秀なアシスタントの中核となっているのがAI（artificial intelligence：人工知能）です。「私達の仕事を奪う」と言われるのがお約束なAIですが、人間が仕事をせずに生きていけるようにしてくれるならウェルカムです。どんどん奪っていっちゃってくださいという感じです。
+
+日本語という特殊な言語のせいで、英語圏よりも最先端のテクノロジーの導入が遅くなってしまうのが難点ですが…。どこまで進化していくのか、楽しみなジャンルです。</textarea>
+</li>
+
+
+
+</ul>
+
+
+<h2>アレコレ書いたり作ったり</h2>
+
+<ul>
+
+<li>スラッグ： make</li>
+
+<li>カテゴリー：
+アシスタント,効率化</li>
+
+<li>タグ： 
+スマホ</li>
+
+<li>画像：-
+</li>
+
+<li>YouTube： <a href="https://youtu.be/EyjYy-fpXII">https://youtu.be/EyjYy-fpXII</a></li>
+<li>Twitter： <a href="https://twitter.com/ebisucom_sample/status/798808399420919808">https://twitter.com/ebisucom_sample/status/798808399420919808</a></li>
+<li>Instagram： <a href="https://www.instagram.com/p/BM3Y4MpBFQi/?taken-by=ebisucom">https://www.instagram.com/p/BM3Y4MpBFQi/?taken-by=ebisucom</a></li>
+<li>Facebook： <a href="https://www.facebook.com/ebisucom.sample/photos/a.992354507577896.1073741827.992344970912183/992354470911233/?type=3&theater">https://www.facebook.com/...&theater</a></li>
+<li>Googleマップ： <a href="https://maps.google.co.jp/">https://maps.google.co.jp/</a></li>
+<li>アニメーションGIF： <a href="../media/video.gif">video.gif</a></li>
+<li>ビデオ： <a href="../media/video.mp4">video.mp4</a></li>
+
+
+<li>
+<textarea>
+休日はモノ作りを楽しんでいます。ブログの更新やWebサイトのカスタマイズといったデスクワーク的な作業から、料理や家具作りといった「いかにも！」といったDIYまで、いろいろです。
+
+一度始めると止まらなくなって、だんだん当初の目的からずれていくこともしばしばです。無理なくのんびり楽しんでいけたらと思っています。</textarea>
+</li>
+
+
+
+</ul>
+
+
+<h2>去年の旅行のハイライト</h2>
+
+<ul>
+
+<li>スラッグ： travel</li>
+
+<li>カテゴリー：
+アジア,国内</li>
+
+<li>タグ： 
+SNS,エスニック</li>
+
+<li>画像（ギャラリー用）：<br>
+<a href="../media/lantern.jpg"><img src="../media/lantern.jpg" alt=""></a>
+lantern.jpg<br>
+<a href="../media/plane.jpg"><img src="../media/plane.jpg" alt=""></a>
+plane.jpg<br>
+<a href="../media/food.jpg"><img src="../media/food.jpg" alt=""></a>
+food.jpg<br>
+<a href="../media/chilli.jpg"><img src="../media/chilli.jpg" alt=""></a>
+chilli.jpg<br>
+<a href="../media/dragon.jpg"><img src="../media/dragon.jpg" alt=""></a>
+dragon.jpg<br>
+<a href="../media/giant.jpg"><img src="../media/giant.jpg" alt=""></a>
+giant.jpg<br>
+<a href="../media/forest.jpg"><img src="../media/forest.jpg" alt=""></a>
+forest.jpg<br>
+<a href="../media/sunset.jpg"><img src="../media/sunset.jpg" alt=""></a>
+sunset.jpg<br>
+<a href="../media/umbrella.jpg"><img src="../media/umbrella.jpg" alt=""></a>
+umbrella.jpg</li>
+
+<li>
+<textarea>
+去年も旅行であちこちに行くことができました。思い出深いシーンを振り返ってみようと思い、記事を作成してみました。
+
+旅先でもスマホがあれば最新の情報を得ることができますし、ホテルも探すこともできれば、道に迷うこともありません。現地のICカードを買えば、券売機に並ぶこともなくなりますし、慣れない小銭を探す手間もなくなります。これからはますます気軽に旅することができるようになりそうです。</textarea>
+</li>
+
+
+
+</ul>
+
+
+<h2>計算してくれ！の結末</h2>
+
+<ul>
+
+<li>スラッグ： calc</li>
+
+<li>カテゴリー：
+アシスタント,効率化</li>
+
+<li>タグ： 
+リフレッシュ,買い物</li>
+
+<li>画像：<br>
+<a href="../media/airport.jpg"><img src="../media/airport.jpg" alt=""></a>
+airport.jpg</li>
+
+<li>
+<textarea>
+今日は仕事で「計算してくれ！」と頼まれました。しかし、私は暗算が苦手です。そろばんとかやったこともありません。というわけで、計算するときは電卓のお世話になります。
+
+今どきはどんなパソコンにも、スマートフォンにもインストールされている電卓。便利です。</textarea>
+</li>
+
+
+
+</ul>
+
+
+<h2>ランチとお弁当とコンビニ</h2>
+
+<ul>
+
+<li>スラッグ： lunch</li>
+
+<li>カテゴリー：
+ランチ,外食</li>
+
+<li>タグ： 
+リフレッシュ</li>
+
+<li>画像：<br>
+<a href="../media/pasta.jpg"><img src="../media/pasta.jpg" alt=""></a>
+pasta.jpg</li>
+
+<li>
+<textarea>
+お昼に何を食べるかは毎日の悩みどころです。毎日のことなので、あまりお金もかけたくないし、かといって同じものばかり食べていると飽きてしまいます。お腹がすかなければ簡単なのに、そうも言ってられません。
+
+というわけで、ランチ（外食）と、手作りのお弁当と、コンビニご飯でやりくりしています。手作りのお弁当は朝から手間暇がかかるので、本当に余裕のあるときにしか作れないですけど…。</textarea>
+</li>
+
+
+
+</ul>
+
+
+<h2>閑話休題</h2>
+
+<ul>
+
+<li>スラッグ： idle-talk</li>
+
+<li>カテゴリー：
+休憩,外食</li>
+
+<li>タグ： 
+甘いもの</li>
+
+<li>画像：<br>
+<a href="../media/softcream.jpg"><img src="../media/softcream.jpg" alt=""></a>
+softcream.jpg</li>
+
+<li>
+<textarea>
+「閑話休題」は余談から話を本筋に戻すときに使う言葉だそうです。余談を始めるときに使う言葉かと思っていました。</textarea>
+</li>
+
+
+
+</ul>
+
+
+<h2>これぞ桃源郷？幻想的なライトアップ</h2>
+
+<ul>
+
+<li>スラッグ： lightup</li>
+
+<li>カテゴリー：
+アジア</li>
+
+<li>タグ： 
+写真,龍</li>
+
+<li>画像：<br>
+<a href="../media/dragon.jpg"><img src="../media/dragon.jpg" alt=""></a>
+dragon.jpg</li>
+
+<li>
+<textarea>
+旅先で夜に出かけると、昼間とはひと味違った形式を楽しむことができます。明かりが灯る街灯、窓から溢れる店内の様子 などなど…。</textarea>
+</li>
+
+
+
+</ul>
+
+
+<h2>かわいい傘を探して</h2>
+
+<ul>
+
+<li>スラッグ： umbrella</li>
+
+<li>カテゴリー：
+アシスタント,アプリ,人工知能</li>
+
+<li>タグ： 
+SNS,買い物</li>
+
+<li>画像：<br>
+<a href="../media/umbrella.jpg"><img src="../media/umbrella.jpg" alt=""></a>
+umbrella.jpg</li>
+
+<li>
+<textarea>
+最近、雨が多いですね。低気圧の強い風のせいでお気に入りの傘が壊れてしまいました。しばらくは古い傘でお茶を濁していましたが、やっぱりかわいい傘が欲しいです。</textarea>
+</li>
+
+
+
+</ul>
+
+
+<h2>写真の整理はアプリにおまかせ</h2>
+
+<ul>
+
+<li>スラッグ： photo</li>
+
+<li>カテゴリー：
+アシスタント,アプリ,人工知能,効率化</li>
+
+<li>タグ： 
+SNS,写真</li>
+
+<li>画像：<br>
+<a href="../media/smartphone.jpg"><img src="../media/smartphone.jpg" alt=""></a>
+smartphone.jpg</li>
+
+<li>
+<textarea>
+旅先でたくさん撮った写真たち。撮ってくるのは楽しいのですが、それを整理するのはものすごく大変です。でも、アプリにおまかせすれば自動でいい感じに整理してくれます。</textarea>
+</li>
+
+
+
+</ul>
+
+
+<h2>竹林の道</h2>
+
+<ul>
+
+<li>スラッグ： bamboo</li>
+
+<li>カテゴリー：
+お土産,国内</li>
+
+<li>タグ： 
+リフレッシュ</li>
+
+<li>画像：<br>
+<a href="../media/forest.jpg"><img src="../media/forest.jpg" alt=""></a>
+forest.jpg</li>
+
+<li>
+<textarea>
+竹林が見どころな観光地はたくさんありますが、ここの竹林は一味違います。その歴史は1000年以上の昔まで遡ることになるのですが…</textarea>
+</li>
+
+
+
+</ul>
+
+
+<h2>フルーツの活用方法</h2>
+
+<ul>
+
+<li>スラッグ： fruits</li>
+
+<li>カテゴリー：
+お土産,外食</li>
+
+<li>タグ： 
+リフレッシュ,レモン</li>
+
+<li>画像：<br>
+<a href="../media/glass.jpg"><img src="../media/glass.jpg" alt=""></a>
+glass.jpg</li>
+
+<li>
+<textarea>
+フルーツの季節にはあちこちから旬の採れたてをいただきます。たくさんいただくので、どうしても食べきれないフルーツがでてきてしまいます。そこで、活用方法を検索してみました。</textarea>
+</li>
+
+
+
+</ul>
+
+
+<h2>仕事帰りにちょっと寄り道</h2>
+
+<ul>
+
+<li>スラッグ： after-work</li>
+
+<li>カテゴリー：
+外食</li>
+
+<li>タグ： 
+リフレッシュ,運動,飲み会</li>
+
+<li>画像：<br>
+<a href="../media/food.jpg"><img src="../media/food.jpg" alt=""></a>
+food.jpg</li>
+
+<li>
+<textarea>
+仕事帰り。このまま家に帰って晩御飯を作るのは面倒くさい。お惣菜を買って帰るのもちょっと飽きてきた… そんなときはちょっと寄り道しておいしいものを食べて帰りたくなります。</textarea>
+</li>
+
+
+
+</ul>
+
+
+<h2>オンラインで何でも調達</h2>
+
+<ul>
+
+<li>スラッグ： online</li>
+
+<li>カテゴリー：
+効率化,外食</li>
+
+<li>タグ： 
+SNS,スマホ,買い物</li>
+
+<li>画像：-
+</li>
+
+<li>
+<textarea>
+インターネットの普及で、今では何でもオンラインで手に入ります。日用品や食材はもちろんのこと、家電、パソコン、工具 etc... 飛行機の予約やホテルの手配もばっちりです。</textarea>
+</li>
+
+
+
+</ul>
+
+
+<h2>ピリッと辛口スパイス</h2>
+
+<ul>
+
+<li>スラッグ： chilli</li>
+
+<li>カテゴリー：
+アシスタント,外食</li>
+
+<li>タグ： 
+エスニック,レモン</li>
+
+<li>画像：<br>
+<a href="../media/chilli.jpg"><img src="../media/chilli.jpg" alt=""></a>
+chilli.jpg</li>
+
+<li>
+<textarea>
+味がぼやっとした料理も、スパイスをちょっと入れるとピリッと引き締まった味になります。できれば、辛口のものを少し入れるのがおすすめです。</textarea>
+</li>
+
+
+
+</ul>
+
+
+<h2>リアルライフのセキュリティ</h2>
+
+<ul>
+
+<li>スラッグ： secure</li>
+
+<li>カテゴリー：
+アシスタント,アプリ</li>
+
+<li>タグ： 
+甘いもの,買い物</li>
+
+<li>画像：<br>
+<a href="../media/giant.jpg"><img src="../media/giant.jpg" alt=""></a>
+giant.jpg</li>
+
+<li>
+<textarea>
+何かと心配になるネットのセキュリティですが、リアルの方のセキュリティはどうでしょうか。家に鍵をかける程度にしか考えたことがないかもしれません。</textarea>
+</li>
+
+
+
+</ul>
+
+
+<h2>SNSで世界旅行を楽しんでみる （只今旅行中）</h2>
+
+<ul>
+
+<li>スラッグ： sns-travel</li>
+
+<li>カテゴリー：
+外食,旅行</li>
+
+<li>タグ： 
+スマホ,運動</li>
+
+<li>画像：<br>
+<a href="../media/sunset.jpg"><img src="../media/sunset.jpg" alt=""></a>
+sunset.jpg</li>
+
+<li>
+<textarea>
+SNSを開けばいつでも誰かが旅をしている… そんな気がしてくる今日このごろです。おいしそうな食べ物やきれいな風景。いつか行ってみたいと思いつつ、いつも傍観者となっている自分がいます。</textarea>
+</li>
+
+
+
+</ul>
+
+
+
+
+
+<div class="copyright">
+<p>Copyright &copy; エビスコム ／ ソシム</p>
+</div>
+
+</div>
+
+</body>
+</html>
+
