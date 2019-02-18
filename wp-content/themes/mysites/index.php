@@ -1,1 +1,1 @@
-<h1><?php echo $hoge->get_title(); ?></h1>
+<h1><?php echo $this->get( 'post_title' ); ?></h1>
