@@ -68,3 +68,17 @@ Stack trace:
 #2 /var/www/wordpress/index.php(17): require('/var/www/wordpr...')
 #3 {main}
   thrown in /var/www/wordpress/wp-content/themes/mysites/index.php on line 1
+[19-Feb-2019 07:25:46 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /var/www/wordpress/wp-content/themes/mysites/index.php:1
+Stack trace:
+#0 /var/www/wordpress/wp-includes/template-loader.php(74): include()
+#1 /var/www/wordpress/wp-blog-header.php(19): require_once('/var/www/wordpr...')
+#2 /var/www/wordpress/index.php(17): require('/var/www/wordpr...')
+#3 {main}
+  thrown in /var/www/wordpress/wp-content/themes/mysites/index.php on line 1
+[07-May-2019 08:41:09 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /var/www/wordpress/wp-content/themes/mysites/index.php:1
+Stack trace:
+#0 /var/www/wordpress/wp-includes/template-loader.php(74): include()
+#1 /var/www/wordpress/wp-blog-header.php(19): require_once('/var/www/wordpr...')
+#2 /var/www/wordpress/index.php(17): require('/var/www/wordpr...')
+#3 {main}
+  thrown in /var/www/wordpress/wp-content/themes/mysites/index.php on line 1
